@@ -67,18 +67,19 @@ footer {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: 15px;
+	gap: 10px;
 	padding: 0 16px;
 	position: absolute;
 	right: 0;
 	top: 40%;
 	color: white;
+	text-align: center;
 	/* Inserisci qui sotto 
 	le tue regole, se necessario. */
 }
 
 .icon {
-	font-size: 28px;
+	font-size: 26px;
 }
 
 .img-sidebar {
@@ -87,7 +88,7 @@ footer {
 }
 
 .text {
-	font-size: 15px;
+	font-size: 13px;
 }
 
 .footer-description {
@@ -97,6 +98,11 @@ footer {
 .footer-icon {
 	background-color: black;
 	color: white;
+	display: flex;
+	justify-content: space-around;
+	padding: 7px;
+	text-align: center;
+
 }
 
 
