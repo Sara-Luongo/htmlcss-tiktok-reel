@@ -90,6 +90,14 @@ footer {
 	font-size: 15px;
 }
 
+.footer-description {
+	padding: 5px;
+}
+
+.footer-icon {
+	background-color: black;
+	color: white;
+}
 
 
 
